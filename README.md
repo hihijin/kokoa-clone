@@ -1,3 +1,3 @@
 # kokoa clone
 
-css got so musch better!
+html & css are so much fun!
